@@ -1,6 +1,9 @@
-fsdakf
-fasdfksdf
-fasdf
-dasda
-dasdasd
-dsad
+git init  (to create a repo)
+git add <fileName> or git add . (to add/save all files/changes)
+git commit -m "<message here>"   (to save changes in local repository)
+git remote add origin master  (to connect local repo to remote repo)
+git push origin master   (to push code to remote repo)
+git pull origin master   (to pull code from remote repo)
+
+
+
