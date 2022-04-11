@@ -1,4 +1,6 @@
-git init  (to create a repo)
+To create a local repository on your computer, create a folder or open an existing folder
+of any Project which you want to push to github, just right click and click "Git Bash Here"
+git init  (to create a repository on your local PC)
 git add <fileName> or git add . (to add/save all files/changes)
 git commit -m "<message here>"   (to save changes in local repository)
 git remote add origin master  (to connect local repo to remote repo)
